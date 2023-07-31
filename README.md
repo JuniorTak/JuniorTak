@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hyppolite Takoua F @JuniorTak
-- 👀 I’m interested in web technologies
-- 🌱 I’m currently learning Object Oriented Programming in PHP
+- 👀 I’m interested in programming, web languages and technologies
+- 🌱 I’m currently learning React and WordPress Plugin development
 - 💞️ I’m looking to collaborate on passionating projects
-- 📫 How to reach me Email: roinujtak@gmail.com Cell: +237 674793925
+- 📫 How to reach me Email: hyppolitak@gmail.com Cell: +237 674793925
 
 <!---
 JuniorTak/JuniorTak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
