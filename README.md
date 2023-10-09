@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hyppolite Takoua F @JuniorTak
-- 👀 I’m interested in programming, web languages and technologies
+- 👀 I’m interested in programming, web languages, and technologies
 - 🌱 I’m currently learning React and WordPress Plugin development
-- 💞️ I’m looking to collaborate on passionating projects
+- 💞️ I’m looking to collaborate on thrilling projects
 - 📫 How to reach me Email: hyppolitak@gmail.com Cell: +237 674793925
 
 <!---
