@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyppolite Takoua F @JuniorTak
 - 👀 I’m interested in programming, web languages, and technologies
-- 🌱 I’m currently learning React, WordPress Plugin development, and CI/CD
+- 🌱 I’m currently learning MERN stack and Gutenberg development
 - 💞️ I’m looking to collaborate on thrilling projects
 - 📫 How to reach me Email: me@hyppolitetakouafoduop.online Cell: +237 674793925
 
