@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, web languages, and technologies
 - 🌱 I’m currently learning MERN stack and Gutenberg development
 - 💞️ I’m looking to collaborate on thrilling projects
-- 📫 How to reach me Email: me@hyppolitetakouafoduop.online Cell: +237 674793925
+- 📫 How to reach me Email: hyppolitak@gmail.com Cell: +237 674793925
 
 <!---
 JuniorTak/JuniorTak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
